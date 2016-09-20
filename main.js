@@ -1,6 +1,6 @@
 var i = 0;
 var j = 0;
-var n = 3;
+var n = Math.floor(Math.random() * 10 + 1);
 var line = 0;
 var a = "";
 var b = "";
